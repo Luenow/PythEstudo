@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8553fdd5-d56c-4d68-bfed-3bc36f15a8f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoPython/Exercícios/ex016.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoPython/Exercícios/ex017.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CursoPython/aula8.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/aula8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex015.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Exercícios/ex015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solyd/Aula4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Solyd/Aula4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,28 +48,7 @@
       <recent name="C:\Users\lueno\Desktop\PythEstudo\Solyd\Solyd Exércicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex016">
-    <configuration name="Aula3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProjetoPy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Solyd" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Solyd/Aula3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex017">
     <configuration name="Aula4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjetoPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,13 +133,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjetoPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoPython/Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoPython/Exercícios/ex017.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex017" />
         <item itemvalue="Python.ex016" />
         <item itemvalue="Python.aula8" />
         <item itemvalue="Python.Aula4" />
         <item itemvalue="Python.Exércicio Aula3" />
-        <item itemvalue="Python.Aula3" />
       </list>
     </recent_temporary>
   </component>
