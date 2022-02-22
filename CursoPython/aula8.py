@@ -1,18 +1,2 @@
-import random
-num = random.randint(1, 10)
-print(num)
-
-
-
-
-
-
-
-
-
-
-
-#from math import sqrt, floor
-#num = int(input('Digite um número: '))
-#raiz = sqrt(num)
-#print('A raiz de {} é igual a {:.2f}'.format(num, floor(raiz)))
+import emoji
+print(emoji.emojize('Olá, Mundo :stuck_out_tongue_closed_eyes:', use_aliases=True))
