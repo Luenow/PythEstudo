@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8553fdd5-d56c-4d68-bfed-3bc36f15a8f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios/Inesperado.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios/ex021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solyd/Aula5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solyd/Solyd Exércicios/Exércicio Aula5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios/ex020.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios/ex020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios/ex021.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios/ex021.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios/ex021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +50,8 @@
       <recent name="C:\Users\lueno\Desktop\PythEstudo\Solyd\Solyd Exércicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex021">
-    <configuration name="ex017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exércicio Aula5">
+    <configuration name="Aula4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjetoPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoPython/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Solyd" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoPython/Exercícios/ex017.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Solyd/Aula4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjetoPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Solyd" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios/ex018.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Solyd/Aula5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exércicio Aula5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjetoPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Solyd/Solyd Exércicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CursoEmVIdeoPython/Exercícios/ex019.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Solyd/Solyd Exércicios/Exércicio Aula5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exércicio Aula5" />
+        <item itemvalue="Python.Aula4" />
+        <item itemvalue="Python.Aula5" />
         <item itemvalue="Python.ex021" />
         <item itemvalue="Python.ex020" />
-        <item itemvalue="Python.ex019" />
-        <item itemvalue="Python.ex018" />
-        <item itemvalue="Python.ex017" />
       </list>
     </recent_temporary>
   </component>
